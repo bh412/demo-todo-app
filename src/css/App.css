@@ -8,6 +8,14 @@
   pointer-events: none;
 }
 
+.center-list {
+  text-align: center;
+  margin: auto;
+  border: 10px red;
+  border-radius: 0.25rem;
+
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
